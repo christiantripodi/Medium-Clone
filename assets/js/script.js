@@ -1,4 +1,4 @@
-//Cambio colore della navbar sullo scroll
+//Cambio colore della navbar allo scroll
 
 
 
